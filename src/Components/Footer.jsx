@@ -73,7 +73,7 @@ const Footer = () => {
           {/* Contact Info */}
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-            <p className="text-gray-300">Phone: +91 8790955587</p>
+            <p className="text-gray-300">Phone: +918790955587</p>
             <p className="text-gray-300">Email: bajipatan649@gmail.com</p>
             <button
               onClick={handleWhatsappClick}
@@ -124,4 +124,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
